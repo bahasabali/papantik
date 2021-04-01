@@ -36,7 +36,7 @@ textarea{
 }
 .gb
 {
-    font-family: 'balisimbar';
+    font-family:'balisimbar';
     margin:1px;
     border-style:solid;
     border-width:5px;
@@ -48,7 +48,7 @@ textarea{
 
 #prev_label
 {
-    font-family: 'vimala';
+    font-family:'balisimbar';
     color:rgb(2, 10, 19);
     font-size: 30pt;
     text-align:center;
