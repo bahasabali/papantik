@@ -36,8 +36,8 @@ textarea{
     border-style:solid;
     border-width:1px;
     border-color:red;
-    background:url('https://raw.githubusercontent.com/bahasabali/papantik/main/bingkai.jpg');
-    background-size:100px 100px;
+    background:url('https://raw.githubusercontent.com/bahasabali/papantik/main/BINGKAI2.jpg');
+    background-size:100% 60%;
     filter:alpha(opacity=100);
     opacity:1;
 }
@@ -48,7 +48,7 @@ textarea{
     color:#ffcc00;
     font-size: 30pt;
     text-align:center;
-    background:url('https://raw.githubusercontent.com/bahasabali/papantik/main/bingkai.jpg');
+    background:url('https://raw.githubusercontent.com/bahasabali/papantik/main/BINGKAI4.jpg');
     background-size:100px 100px;
     padding: 1px;
     line-height:3em;
@@ -64,4 +64,3 @@ abbr, acronym, .explain {
     cursor: help;
     font-size:100%;
 }
-.
