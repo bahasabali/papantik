@@ -446,7 +446,7 @@ function GetCoreSound(str) {
 	"w":"ᬯ", //w
 	"x":"ᬳᭂ", //x
 	"y":"ᬬ", //y
-	"z":"᭄", //z
+	"z":"ᬚ᬴", //z
 	"È":"ᬏ", //È
 	"É":"ᬏ", //É
 	"Ê":"ᬅᭂ", //Ê
@@ -515,7 +515,7 @@ function GetCoreSound(str) {
 	"w":"ᬯ", //w
 	"x":"ᭂ", //x
 	"y":"ᬬ", //y
-	"z":"᭄", //z
+	"z":"ᬚ᬴", //z
 	"È":"ᬏ", //È
 	"É":"ᬏ", //É
 	"Ê":"ᬅᭂ", //Ê
@@ -817,4 +817,3 @@ function DoTransliterate(str) {
 	ret += GetSound(str.substring(pi, i)); }
 	return SuperTrim(ret);
 	}
-.
