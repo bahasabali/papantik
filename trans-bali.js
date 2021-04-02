@@ -817,3 +817,4 @@ function DoTransliterate(str) {
 	ret += GetSound(str.substring(pi, i)); }
 	return SuperTrim(ret);
 	}
+.
